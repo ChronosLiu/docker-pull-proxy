@@ -26,7 +26,7 @@ jobs:
 
     - name: Build and push image to ACR EE
       run: |
-        docker login $REGISTRY --username=$TX_USERNAME -passport=$TX_PASSWORD
+        docker login $REGISTRY --username=$TX_USERNAME --password=$TX_PASSWORD
         sh pull.sh
         data=`cat trigger.txt`
 
