@@ -1,1 +1,1 @@
-langgenius/dify-api:0.15.3 ccr.ccs.tencentyun.com/zkh-langgenius/dify-api:0.15.3
+langgenius/dify-api:0.15.2 ccr.ccs.tencentyun.com/zkh-langgenius/dify-api:0.15.2
