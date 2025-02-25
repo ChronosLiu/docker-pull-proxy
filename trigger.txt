@@ -1,1 +1,1 @@
-python:3.12-slim-bookworm ccr.ccs.tencentyun.com/zkh-langgenius/python:3.12-slim-bookworm
+python:3.12.9 ccr.ccs.tencentyun.com/zkh-langgenius/python:3.12.9
