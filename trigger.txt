@@ -1,1 +1,1 @@
-python:3.12.9 ccr.ccs.tencentyun.com/zkh-langgenius/python:3.12.9
+langgenius/dify-plugin-daemon:0.0.4-local ccr.ccs.tencentyun.com/zkh-langgenius/dify-plugin-daemon:0.0.4-local
