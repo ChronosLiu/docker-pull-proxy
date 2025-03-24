@@ -1,1 +1,1 @@
-langgenius/dify-plugin-daemon:0.0.5-local ccr.ccs.tencentyun.com/zkh-langgenius/dify-plugin-daemon:0.0.5-local
+langgenius/dify-plugin-daemon:0.0.6-local ccr.ccs.tencentyun.com/zkh-langgenius/dify-plugin-daemon:0.0.6-local
