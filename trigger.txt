@@ -1,1 +1,1 @@
-langgenius/dify-web:1.3.0 ccr.ccs.tencentyun.com/zkh-langgenius/dify-web:1.3.0
+langgenius/dify-sandbox:0.2.12 ccr.ccs.tencentyun.com/zkh-langgenius/dify-sandbox:0.2.12
