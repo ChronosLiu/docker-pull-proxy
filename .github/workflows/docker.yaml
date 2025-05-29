@@ -7,7 +7,7 @@ on:
   #   branches: [ main ]
 
 env:
-  REGISTRY: ccr.ccs.tencentyun.com
+  REGISTRY: crpi-g6ox0kuc3ozifi70.cn-hangzhou.personal.cr.aliyuncs.com
   TX_USERNAME: "${{ secrets.TX_USERNAME }}"
   TX_PASSWORD: "${{ secrets.TX_PASSWORD }}"
   MM_NOTIFY_URL: "${{ secrets.MM_NOTIFY_URL }}"
