@@ -1,1 +1,1 @@
-langgenius/dify-plugin-daemon:0.1.1-local crpi-g6ox0kuc3ozifi70.cn-hangzhou.personal.cr.aliyuncs.com/liuyang-image/dify-plugin-daemon:0.1.1-local
+langgenius/dify-plugin-daemon:0.1.1-local ccr.ccs.tencentyun.com/zkh-langgenius/dify-plugin-daemon:0.1.1-local
